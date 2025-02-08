@@ -2,7 +2,7 @@
 <h3 align="center">Student at International University of Sarajevo.</h3>
 
 <br>
-<p><img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="animation_gif" width="650" height="350" /></p>
+<p><img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="animation_gif" width="500" height="300" /></p>
 
 - 🌱 I’m currently a 4th year Software Engineering student
 - 📫 How to reach me: **affankapidzic3@gmail.com**
