@@ -51,6 +51,15 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40" /> 
   </a> 
+  <a href="https://pytorch.org/"  target="_blank" rel="noreferrer"> 
+    <img src="https://blog.christianperone.com/wp-content/uploads/2018/10/pytorch-logo.png"  alt="pytorch" width="40" height="40" /> 
+  </a> 
+  <a href="https://www.tensorflow.org/"  target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"  alt="tensorflow" width="40" height="40" /> 
+  </a>
+    <a href="https://spark.apache.org/"  target="_blank" rel="noreferrer"> 
+    <img src="https://spark.apache.org/images/spark-logo-trademark.png"  alt="pyspark" width="40" height="40" /> 
+  </a> 
 </p>
 
 [Affan Kapidžić](https://github.com/Affan88888)
