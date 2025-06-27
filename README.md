@@ -3,7 +3,7 @@
 <br>
 <p><img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="animation_gif" width="500" height="300" /></p>
 
-- 🎓 I am a recent graduate with a degree in Software Engineering. 
+- 🌱 I’m currently a 4th year Software Engineering student.
 - 📫 How to reach me: **affankapidzic3@gmail.com**
 
 <br>
