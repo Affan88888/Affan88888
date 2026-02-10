@@ -3,7 +3,6 @@
 <br>
 <p><img align="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="animation_gif" width="500" height="300" /></p>
 
-- 🌱 I’m a Bachelor of Science in Software Engineering.
 - 📫 How to reach me: **affankapidzic3@gmail.com**
 
 <br>
